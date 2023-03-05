@@ -1,0 +1,4 @@
+﻿  Matrixes_multiplication.cpp
+C:\Users\Galina\source\repos\Matrixes_multiplication\Matrixes_multiplication\Matrixes_multiplication.cpp(59,24): warning C4101: c3: неиспользованная локальная переменная
+C:\Users\Galina\source\repos\Matrixes_multiplication\Matrixes_multiplication\Matrixes_multiplication.cpp(59,21): warning C4101: r3: неиспользованная локальная переменная
+  Matrixes_multiplication.vcxproj -> C:\Users\Galina\source\repos\Matrixes_multiplication\x64\Debug\Matrixes_multiplication.exe
